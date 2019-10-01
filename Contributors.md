@@ -1459,7 +1459,6 @@ Stephan Sharpe
 - [Trivender](https://github.com/trivender)
 - [Nick Renaud](https://github.com/NickRenaud74)
 - [Martin Ramos](https://github.com/martin292)
-- [jakeec][https://github.com/jakeec]
 - [Ali Bolourian](https://github.com/abolourian)
 - [Hericles Koelher](https://github.com/blackshooter987)
 - [Ali Kassir](https://github.com/AliKassir)
@@ -16267,3 +16266,4 @@ Mário Baltazar
 - [vikky12345](https://github.com/vikky12345)
 - [jissi](https://github.com/ji3427)
 - [a.m](https://github.com/amerre)
+- [mayursoni4](https://github.com/mayurssoni)
